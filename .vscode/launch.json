@@ -1,0 +1,26 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "g++.exe - 生成和调试活动文件",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/abc.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "E:\\mingw-w64\\x86_64-7.3.0-win32-seh-rt_v5-rev0\\mingw64\\bin",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            "miDebuggerPath": "E:\\mingw-w64\\x86_64-7.3.0-win32-seh-rt_v5-rev0\\mingw64\\bin\\gdb.exe",
+            "setupCommands": [
+                {
+                    "description": "为 gdb 启用整齐打印",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                }
+            ],
+            "preLaunchTask": "C/C++: g++.exe build active file"
+        }
+    ]
+}
