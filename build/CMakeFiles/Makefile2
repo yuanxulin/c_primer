@@ -199,9 +199,9 @@ CMakeFiles/gtest_win.dir/clean:
 
 # All Build rule for target.
 test/CMakeFiles/gtest_win_test.dir/all: test/googletest-release-1.10.0/googlemock/CMakeFiles/gmock_main.dir/all
-test/CMakeFiles/gtest_win_test.dir/all: test/googletest-release-1.10.0/googletest/CMakeFiles/gtest_main.dir/all
 test/CMakeFiles/gtest_win_test.dir/all: test/googletest-release-1.10.0/googlemock/CMakeFiles/gmock.dir/all
 test/CMakeFiles/gtest_win_test.dir/all: test/googletest-release-1.10.0/googletest/CMakeFiles/gtest.dir/all
+test/CMakeFiles/gtest_win_test.dir/all: test/googletest-release-1.10.0/googletest/CMakeFiles/gtest_main.dir/all
 	$(MAKE) $(MAKESILENT) -f test\CMakeFiles\gtest_win_test.dir\build.make test/CMakeFiles/gtest_win_test.dir/depend
 	$(MAKE) $(MAKESILENT) -f test\CMakeFiles\gtest_win_test.dir\build.make test/CMakeFiles/gtest_win_test.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\yxl\java\JavaProjects\C_Primer\build\CMakeFiles --progress-num=12,13,14 "Built target gtest_win_test"

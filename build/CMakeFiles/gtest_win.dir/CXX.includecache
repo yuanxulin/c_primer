@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-../src/include/swap/swap.h
+../src/include/swap.h
 
 D:/yxl/java/JavaProjects/C_Primer/src/main.cpp
 iostream
@@ -21,10 +21,10 @@ queue
 -
 stdlib.h
 -
-swap/swap.h
-D:/yxl/java/JavaProjects/C_Primer/src/swap/swap.h
+swap.h
+D:/yxl/java/JavaProjects/C_Primer/src/swap.h
 
 D:/yxl/java/JavaProjects/C_Primer/src/src/swap.cpp
-swap/swap.h
-D:/yxl/java/JavaProjects/C_Primer/src/src/swap/swap.h
+swap.h
+D:/yxl/java/JavaProjects/C_Primer/src/src/swap.h
 

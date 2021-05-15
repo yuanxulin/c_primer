@@ -79,29 +79,29 @@ CMakeFiles/gtest_win.dir/src/main.cpp.obj: CMakeFiles/gtest_win.dir/flags.make
 CMakeFiles/gtest_win.dir/src/main.cpp.obj: CMakeFiles/gtest_win.dir/includes_CXX.rsp
 CMakeFiles/gtest_win.dir/src/main.cpp.obj: ../src/main.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\yxl\java\JavaProjects\C_Primer\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/gtest_win.dir/src/main.cpp.obj"
-	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\gtest_win.dir\src\main.cpp.obj -c D:\yxl\java\JavaProjects\C_Primer\src\main.cpp
+	D:\mingw64\bin\x86_64-w64-mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\gtest_win.dir\src\main.cpp.obj -c D:\yxl\java\JavaProjects\C_Primer\src\main.cpp
 
 CMakeFiles/gtest_win.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/gtest_win.dir/src/main.cpp.i"
-	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\yxl\java\JavaProjects\C_Primer\src\main.cpp > CMakeFiles\gtest_win.dir\src\main.cpp.i
+	D:\mingw64\bin\x86_64-w64-mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\yxl\java\JavaProjects\C_Primer\src\main.cpp > CMakeFiles\gtest_win.dir\src\main.cpp.i
 
 CMakeFiles/gtest_win.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/gtest_win.dir/src/main.cpp.s"
-	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\yxl\java\JavaProjects\C_Primer\src\main.cpp -o CMakeFiles\gtest_win.dir\src\main.cpp.s
+	D:\mingw64\bin\x86_64-w64-mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\yxl\java\JavaProjects\C_Primer\src\main.cpp -o CMakeFiles\gtest_win.dir\src\main.cpp.s
 
 CMakeFiles/gtest_win.dir/src/src/swap.cpp.obj: CMakeFiles/gtest_win.dir/flags.make
 CMakeFiles/gtest_win.dir/src/src/swap.cpp.obj: CMakeFiles/gtest_win.dir/includes_CXX.rsp
 CMakeFiles/gtest_win.dir/src/src/swap.cpp.obj: ../src/src/swap.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\yxl\java\JavaProjects\C_Primer\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/gtest_win.dir/src/src/swap.cpp.obj"
-	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\gtest_win.dir\src\src\swap.cpp.obj -c D:\yxl\java\JavaProjects\C_Primer\src\src\swap.cpp
+	D:\mingw64\bin\x86_64-w64-mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\gtest_win.dir\src\src\swap.cpp.obj -c D:\yxl\java\JavaProjects\C_Primer\src\src\swap.cpp
 
 CMakeFiles/gtest_win.dir/src/src/swap.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/gtest_win.dir/src/src/swap.cpp.i"
-	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\yxl\java\JavaProjects\C_Primer\src\src\swap.cpp > CMakeFiles\gtest_win.dir\src\src\swap.cpp.i
+	D:\mingw64\bin\x86_64-w64-mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\yxl\java\JavaProjects\C_Primer\src\src\swap.cpp > CMakeFiles\gtest_win.dir\src\src\swap.cpp.i
 
 CMakeFiles/gtest_win.dir/src/src/swap.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/gtest_win.dir/src/src/swap.cpp.s"
-	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\yxl\java\JavaProjects\C_Primer\src\src\swap.cpp -o CMakeFiles\gtest_win.dir\src\src\swap.cpp.s
+	D:\mingw64\bin\x86_64-w64-mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\yxl\java\JavaProjects\C_Primer\src\src\swap.cpp -o CMakeFiles\gtest_win.dir\src\src\swap.cpp.s
 
 # Object files for target gtest_win
 gtest_win_OBJECTS = \

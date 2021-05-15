@@ -4,7 +4,7 @@
 #include <list>
 #include <queue>
 #include <stdlib.h>
-#include "swap/swap.h"
+#include "swap.h"
 using namespace std;
 
 struct yType

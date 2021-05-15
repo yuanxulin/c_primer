@@ -1,3 +1,3 @@
 D:\cmake\bin\cmake.exe -E rm -f CMakeFiles\gtest_win_test.dir/objects.a
 D:\mingw64\bin\ar.exe cr CMakeFiles\gtest_win_test.dir/objects.a @CMakeFiles\gtest_win_test.dir\objects1.rsp
-D:\mingw64\bin\g++.exe -Wl,--whole-archive CMakeFiles\gtest_win_test.dir/objects.a -Wl,--no-whole-archive -o gtest_win_test.exe -Wl,--out-implib,libgtest_win_test.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\gtest_win_test.dir\linklibs.rsp
+D:\mingw64\bin\x86_64-w64-mingw32-g++.exe -g -Wl,--whole-archive CMakeFiles\gtest_win_test.dir/objects.a -Wl,--no-whole-archive -o gtest_win_test.exe -Wl,--out-implib,libgtest_win_test.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\gtest_win_test.dir\linklibs.rsp

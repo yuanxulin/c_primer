@@ -1,4 +1,4 @@
-#include "swap/swap.h"
+#include "swap.h"
 
 /**
  * @description: 两个数交换
