@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/include/swap.h
+
+D:/yxl/java/JavaProjects/C_Primer/src/main.cpp
+iostream
+-
+memory
+-
+vector
+-
+list
+-
+queue
+-
+stdlib.h
+-
+swap.h
+D:/yxl/java/JavaProjects/C_Primer/src/swap.h
+
+D:/yxl/java/JavaProjects/C_Primer/src/src/swap.cpp
+swap.h
+D:/yxl/java/JavaProjects/C_Primer/src/src/swap.h
+
